@@ -1,0 +1,18 @@
+.titulo {
+    background-color: rgb(255, 238, 1);
+   color: rgb(35, 35, 122);
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  
+   
+
+}
+#botonI {
+   background: transparent;
+  border: none;
+  color: rgb(0, 0, 0); /* o cualquier color visible */
+  font-size: 18px;
+  cursor: pointer;
+}
+
